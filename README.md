@@ -13,7 +13,7 @@ Meu nome é Murilo Barranco, sou formado em Análise e Desenvolvimento de Sistem
 
 ## 🌐 Conecte-se comigo:
 
-[![LinkedIn](https://www.linkedin.com/in/murilo-barranco-8b65871bb/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Murilo_Barranco-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murilo-barranco-8b65871bb/)
 
 ## 📬 Fale comigo:
 
