@@ -18,7 +18,7 @@ Meu nome é Murilo Barranco, sou formado em Análise e Desenvolvimento de Sistem
 ## 📬 Fale comigo:
 
 - 📧 Email: murilo_cesar7@hotmail.com
-## ℹ️ Mais sobre mim:
+## ☝️ Mais sobre mim:
 
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas pela Faculdade Unifadra.
 - 🌐 Sempre buscando aprender novas tecnologias e aprimorar minhas habilidades.
